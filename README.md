@@ -1,10 +1,18 @@
-# Getting Started with Create React App
+# Personal Portfolio Website using React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![image](https://user-images.githubusercontent.com/63924604/188266542-d0bb090a-6072-4bdc-a2a1-bdf4ba70b489.png)
 
-In the project directory, you can run:
+
+## Built using:
+
+This portfolio website is built using:
+* Front-end library: React
+* CSS framework: React-bootstrap
+* CSS animations library: Animate.css
+* Email library: Email JS
+* Map library: Leaflet JS
 
 ### `npm start`
 
