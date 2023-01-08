@@ -1,6 +1,7 @@
 const hamburger = document.querySelector("#hamburger")
 const menu = document.querySelector("#menu")
 const moon = document.querySelector("#moon")
+const sun = document.querySelector("#sun")
 const body = document.querySelector("body")
 const hLinks = document.querySelectorAll("#hLink")
 
@@ -18,4 +19,8 @@ hLinks.forEach(link=>{
 
 moon.addEventListener("click", ()=>{
   body.classList.toggle("dark")
+})
+
+sun.addEventListener("click", ()=>{
+  body.classList.toggle("light")
 })
